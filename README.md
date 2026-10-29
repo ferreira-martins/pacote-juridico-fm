@@ -21,6 +21,9 @@ powershell -ExecutionPolicy Bypass -File pacote-juridico-fm\instalar.ps1
 ```
 
 O instalador copia as skills para `%USERPROFILE%\.claude\skills`, instala `pypdf` e `python-docx` e roda o autoteste.
+Ele também grava no seu `%USERPROFILE%\.claude\CLAUDE.md` um bloco curto (entre marcadores, sem mexer no resto do
+arquivo) com as regras do pacote e a tabela "tarefa → skill". Assim o Claude usa a skill e o POP certos e confere as
+citações em toda conversa.
 Precisa de **Python 3.10 ou mais novo** (Microsoft Store → "Python 3.12"). Depois, feche e abra o Claude Code.
 Para atualizar, rode `git pull` e o instalador de novo.
 

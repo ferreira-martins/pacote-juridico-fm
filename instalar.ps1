@@ -16,10 +16,27 @@ foreach ($pasta in "skills", "agents") {
     New-Item -ItemType Directory -Force $destino | Out-Null
     Get-ChildItem (Join-Path $aqui $pasta) | ForEach-Object {
         $alvo = Join-Path $destino $_.Name
-        if (Test-Path $alvo) { Remove-Item -Recurse -Force $alvo }   # versão anterior do pacote
+        if (Test-Path -LiteralPath $alvo) {   # versão anterior do pacote (skill = pasta; agente = arquivo .md)
+            $velho = (Resolve-Path -LiteralPath $alvo).ProviderPath
+            if ((Get-Item -LiteralPath $velho).PSIsContainer) { [IO.Directory]::Delete($velho, $true) } else { [IO.File]::Delete($velho) }
+        }
         Copy-Item -Recurse $_.FullName $alvo
     }
     Write-Host "OK  $pasta -> $destino"
+}
+
+# Regras + tabela de roteamento no CLAUDE.md do usuário (lido em toda conversa): bloco entre marcadores, regravado a
+# cada instalação; o resto do arquivo do usuário fica intacto. UTF-8 sem BOM.
+$bloco = Join-Path $aqui "CLAUDE-pacote.md"
+if (Test-Path $bloco) {
+    $md = Join-Path $claude "CLAUDE.md"
+    $ini = "<!-- pacote-juridico-fm:inicio -->"; $fim = "<!-- pacote-juridico-fm:fim -->"
+    $novo = "$ini`r`n" + [IO.File]::ReadAllText($bloco, [Text.Encoding]::UTF8).Trim() + "`r`n$fim"
+    $atual = if (Test-Path $md) { [IO.File]::ReadAllText($md, [Text.Encoding]::UTF8) } else { "" }
+    $rx = [regex]::Escape($ini) + "[\s\S]*?" + [regex]::Escape($fim)
+    $saida = if ($atual -match $rx) { [regex]::Replace($atual, $rx, { param($m) $novo }) } else { ($atual.TrimEnd() + "`r`n`r`n" + $novo + "`r`n").TrimStart() }
+    [IO.File]::WriteAllText($md, $saida, (New-Object Text.UTF8Encoding $false))
+    Write-Host "OK  regras do pacote -> $md"
 }
 
 # Python: o conferidor de citações e o cálculo de prazos precisam dele (3.10+)

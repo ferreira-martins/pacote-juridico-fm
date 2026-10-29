@@ -30,4 +30,4 @@ if (-not $py) {
 }
 & python -m pip install --user --quiet pypdf python-docx
 & python -X utf8 (Join-Path $claude "skills\conferencia-citacoes-fm\scripts\teste_conferir.py")
-Write-Host "`nPronto. Feche e abra o Claude Code. Comece pelo GUIA-DO-TIME.md." -ForegroundColor Green
+Write-Host "`nPronto. Feche e abra o Claude Code. Comece pelo GUIA-DO-TIME.md ou pelo README.md." -ForegroundColor Green

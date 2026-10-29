@@ -76,6 +76,8 @@ python "%USERPROFILE%\.claude\skills\conferencia-citacoes-fm\scripts\conferir.py
 - Temas repetitivos do STJ e acórdãos não estão na base local.
 - Os feriados forenses dos tribunais não vêm preenchidos no cálculo de prazos.
 - O OCR de PDF escaneado da `peca-trabalhista` só funciona no Mac.
+- O **timbre do escritório** (`peca_modelo_FM.docx`, logo e rodapé) não está no repo público. Para o DOCX timbrado da
+  `peca-trabalhista`, peça o arquivo ao TI e rode `gerar_docx.py --template <caminho do peca_modelo_FM.docx>`.
 - Toda peça gerada é **rascunho**: revisão e assinatura são do advogado responsável.
 
 ## Aviso

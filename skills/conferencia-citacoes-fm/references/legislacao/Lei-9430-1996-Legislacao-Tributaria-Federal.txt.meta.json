@@ -1,0 +1,17 @@
+{
+ "titulo": "Legislação Tributária Federal (Lei 9.430/1996)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 9430/1996",
+  "aliases": [
+   "Lei 9430/1996"
+  ],
+  "areas": [
+   "tributario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9430.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 79
+ }
+}

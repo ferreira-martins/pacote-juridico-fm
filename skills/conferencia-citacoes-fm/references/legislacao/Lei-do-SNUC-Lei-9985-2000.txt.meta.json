@@ -1,0 +1,17 @@
+{
+ "titulo": "Sistema Nacional de Unidades de Conservação (Lei 9.985/2000)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 9985/2000",
+  "aliases": [
+   "Lei 9985/2000"
+  ],
+  "areas": [
+   "ambiental"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 60
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "titulo": "Cédula de Crédito Bancário (Lei 10.931/2004)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 10931/2004",
+  "aliases": [
+   "Lei 10931/2004"
+  ],
+  "areas": [
+   "recuperacao_de_credito",
+   "bancario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.931.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 72
+ }
+}

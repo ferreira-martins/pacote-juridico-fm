@@ -1,0 +1,19 @@
+{
+ "titulo": "LGPD (Lei 13.709/2018)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 13709/2018",
+  "aliases": [
+   "Lei 13709/2018"
+  ],
+  "areas": [
+   "empresarial",
+   "consumidor",
+   "bancario"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 64
+ }
+}

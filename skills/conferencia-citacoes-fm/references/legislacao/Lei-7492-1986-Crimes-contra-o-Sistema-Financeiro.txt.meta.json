@@ -1,0 +1,18 @@
+{
+ "titulo": "Crimes contra o Sistema Financeiro Nacional (Lei 7.492/1986)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 7492/1986",
+  "aliases": [
+   "Lei 7492/1986"
+  ],
+  "areas": [
+   "penal",
+   "bancario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 35
+ }
+}

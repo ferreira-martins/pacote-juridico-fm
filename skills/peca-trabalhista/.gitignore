@@ -1,0 +1,23 @@
+# Cache de OCR — gerado por ocr_pdf.py ao processar PDFs
+*.ocr.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Saídas temporárias (caso alguém gere .docx dentro da pasta da skill por engano)
+/saidas/
+/tmp/
+*.tmp.docx

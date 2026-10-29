@@ -1,0 +1,17 @@
+{
+ "titulo": "Crimes Informáticos (Lei 12.737/2012)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 12737/2012",
+  "aliases": [
+   "Lei 12737/2012"
+  ],
+  "areas": [
+   "penal"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 7
+ }
+}

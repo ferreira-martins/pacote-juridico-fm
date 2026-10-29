@@ -1,0 +1,17 @@
+{
+ "titulo": "Sistema de Pagamentos Brasileiro (Lei 10.214/2001)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 10214/2001",
+  "aliases": [
+   "Lei 10214/2001"
+  ],
+  "areas": [
+   "bancario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10214.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 12
+ }
+}

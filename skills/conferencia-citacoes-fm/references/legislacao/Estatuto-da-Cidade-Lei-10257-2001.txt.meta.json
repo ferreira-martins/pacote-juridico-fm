@@ -1,0 +1,17 @@
+{
+ "titulo": "Estatuto da Cidade (Lei 10.257/2001)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 10257/2001",
+  "aliases": [
+   "Lei 10257/2001"
+  ],
+  "areas": [
+   "imobiliario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 57
+ }
+}

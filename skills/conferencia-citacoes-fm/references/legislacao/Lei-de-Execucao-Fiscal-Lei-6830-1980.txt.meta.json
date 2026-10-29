@@ -1,0 +1,18 @@
+{
+ "titulo": "Lei de Execução Fiscal (Lei 6.830/1980)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 6830/1980",
+  "aliases": [
+   "Lei 6830/1980"
+  ],
+  "areas": [
+   "recuperacao_de_credito",
+   "tributario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l6830.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 42
+ }
+}

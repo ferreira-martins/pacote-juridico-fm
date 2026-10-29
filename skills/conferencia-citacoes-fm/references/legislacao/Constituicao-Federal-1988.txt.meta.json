@@ -1,0 +1,27 @@
+{
+ "titulo": "Constituição Federal de 1988",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "CF",
+  "aliases": [
+   "CF"
+  ],
+  "areas": [
+   "comum",
+   "trabalhista",
+   "recuperacao_de_credito",
+   "tributario",
+   "empresarial",
+   "penal",
+   "familia",
+   "imobiliario",
+   "consumidor",
+   "ambiental",
+   "bancario"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 248
+ }
+}

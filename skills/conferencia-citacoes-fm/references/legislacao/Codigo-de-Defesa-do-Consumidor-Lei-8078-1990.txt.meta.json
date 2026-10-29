@@ -1,0 +1,19 @@
+{
+ "titulo": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "CDC",
+  "aliases": [
+   "CDC",
+   "Lei 8078/1990"
+  ],
+  "areas": [
+   "consumidor",
+   "bancario"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 119
+ }
+}

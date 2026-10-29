@@ -1,0 +1,17 @@
+{
+ "titulo": "Cadastro Positivo (Lei 12.414/2011)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 12414/2011",
+  "aliases": [
+   "Lei 12414/2011"
+  ],
+  "areas": [
+   "bancario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 17
+ }
+}

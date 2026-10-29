@@ -1,0 +1,18 @@
+{
+ "titulo": "Código Penal (Decreto-Lei 2.848/1940)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "CP",
+  "aliases": [
+   "CP",
+   "Decreto-Lei 2848/1940"
+  ],
+  "areas": [
+   "penal"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 356
+ }
+}

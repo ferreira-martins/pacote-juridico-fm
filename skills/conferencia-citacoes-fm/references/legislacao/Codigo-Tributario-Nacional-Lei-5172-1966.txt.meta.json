@@ -1,0 +1,18 @@
+{
+ "titulo": "Código Tributário Nacional (Lei 5.172/1966)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "CTN",
+  "aliases": [
+   "CTN",
+   "Lei 5172/1966"
+  ],
+  "areas": [
+   "tributario"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 204
+ }
+}

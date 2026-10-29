@@ -1,0 +1,18 @@
+{
+ "titulo": "Código de Trânsito Brasileiro (Lei 9.503/1997)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "CTB",
+  "aliases": [
+   "CTB",
+   "Lei 9503/1997"
+  ],
+  "areas": [
+   "penal"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 341
+ }
+}

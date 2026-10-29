@@ -1,0 +1,18 @@
+{
+ "titulo": "ISS - Imposto Sobre Serviços (Lei Complementar 116/2003)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "LC 116/2003",
+  "aliases": [
+   "LC 116/2003",
+   "LC 116"
+  ],
+  "areas": [
+   "tributario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 10
+ }
+}

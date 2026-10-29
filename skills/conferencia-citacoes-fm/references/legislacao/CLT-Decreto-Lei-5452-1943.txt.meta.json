@@ -1,0 +1,18 @@
+{
+ "titulo": "CLT (Decreto-Lei 5.452/1943)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "CLT",
+  "aliases": [
+   "CLT",
+   "Decreto-Lei 5452/1943"
+  ],
+  "areas": [
+   "trabalhista"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 734
+ }
+}

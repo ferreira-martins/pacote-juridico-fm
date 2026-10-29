@@ -1,0 +1,17 @@
+{
+ "titulo": "Imposto de Renda (Lei 7.713/1988)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 7713/1988",
+  "aliases": [
+   "Lei 7713/1988"
+  ],
+  "areas": [
+   "tributario"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l7713.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 49
+ }
+}

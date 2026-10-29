@@ -1,0 +1,19 @@
+{
+ "titulo": "Regulamento da Previdência Social (Decreto 3.048/1999)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Decreto 3048/1999",
+  "aliases": [
+   "Decreto 3048/1999",
+   "RPS"
+  ],
+  "areas": [
+   "trabalhista"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/decreto/d3048.htm",
+  "versao_fonte": "texto compilado do Planalto sem a redação riscada",
+  "baixado_em": "2026-10-16",
+  "artigos": 341
+ }
+}

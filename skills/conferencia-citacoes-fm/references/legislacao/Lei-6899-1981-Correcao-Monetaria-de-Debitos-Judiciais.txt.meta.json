@@ -1,0 +1,17 @@
+{
+ "titulo": "Correção Monetária de Débitos Judiciais (Lei 6.899/1981)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "Lei 6899/1981",
+  "aliases": [
+   "Lei 6899/1981"
+  ],
+  "areas": [
+   "recuperacao_de_credito"
+  ],
+  "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l6899.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 5
+ }
+}

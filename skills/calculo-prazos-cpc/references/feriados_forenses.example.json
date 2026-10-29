@@ -1,0 +1,22 @@
+{
+  "_AVISO": "Controle de prazo é responsabilidade do escritório. Estes são padrões razoáveis; feriados locais e SUSPENSÕES DE EXPEDIENTE variam por tribunal e por ano. SEMPRE confirme na portaria/calendário oficial do tribunal. O motor imprime cada dia pulado pelo nome justamente para você auditar. Copie este arquivo para scripts/feriados_forenses.json (ou aponte com --cfg) e ajuste por tribunal/ano.",
+
+  "moveis_forenses": {
+    "sexta_feira_santa": true,
+    "carnaval_segunda_terca": true,
+    "corpus_christi": true
+  },
+
+  "forense_fixos": {
+    "10-28": "Dia do Servidor Público (forense)",
+    "12-08": "Dia da Justiça (forense)"
+  },
+
+  "feriados_extras_geral": [],
+
+  "feriados_por_tribunal": {
+    "TJSC": [],
+    "TRT12": [],
+    "STJ": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+ "titulo": "Código Civil (Lei 10.406/2002)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "CC",
+  "aliases": [
+   "CC",
+   "Lei 10406/2002"
+  ],
+  "areas": [
+   "comum",
+   "recuperacao_de_credito",
+   "empresarial",
+   "familia",
+   "imobiliario",
+   "bancario"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 2037
+ }
+}

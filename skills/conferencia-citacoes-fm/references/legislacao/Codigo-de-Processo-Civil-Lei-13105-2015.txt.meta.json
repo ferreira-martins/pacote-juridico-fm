@@ -1,0 +1,20 @@
+{
+ "titulo": "Código de Processo Civil (Lei 13.105/2015)",
+ "tipo": "LEGISLACAO",
+ "metadados": {
+  "uso": "fundamentar",
+  "sigla": "CPC",
+  "aliases": [
+   "CPC",
+   "Lei 13105/2015"
+  ],
+  "areas": [
+   "comum",
+   "recuperacao_de_credito",
+   "imobiliario"
+  ],
+  "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+  "baixado_em": "2026-10-02",
+  "artigos": 1071
+ }
+}
